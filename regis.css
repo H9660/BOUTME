@@ -1,0 +1,26 @@
+.heading{
+
+text-align: center;
+font-family: 'Courier New' ,Courier, monospace;
+font-size: 22px;
+}   
+
+.feedboxes{
+
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+.background{
+    background-color: #daf2f2;
+    
+}
+
+.submit{
+    background-color:paleturquoise;
+    border-color: 
+    border-radius: 40px;
+    size: 50px 50px;
+    font-family: 'Courier New' ,Courier, monospace;
+} 
